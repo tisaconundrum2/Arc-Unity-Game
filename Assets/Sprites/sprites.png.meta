@@ -1,0 +1,1936 @@
+fileFormatVersion: 2
+guid: 109af272b65c47646ad81591759d353c
+timeCreated: 1480951471
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemy_0
+    21300002: enemy_1
+    21300004: enemy_2
+    21300006: enemy_3
+    21300008: enemy_4
+    21300010: explos_0
+    21300012: explos_1
+    21300014: player_ship_0_b_2
+    21300016: explos_2
+    21300018: explos_3
+    21300020: explos_4
+    21300022: player_ship_0_b_3
+    21300024: explos_7
+    21300026: player_ship_0_b_4
+    21300028: explos_5
+    21300030: explos_6
+    21300032: explos_13
+    21300034: sprites_17
+    21300036: sprites_18
+    21300038: explos_8
+    21300040: explos_9
+    21300042: explos_10
+    21300044: player_ship_1_b_3
+    21300046: sprites_23
+    21300048: player_ship_1_b_2
+    21300050: sprites_25
+    21300052: player_ship_1_b_1
+    21300054: player_ship_1_b_0
+    21300056: sprites_28
+    21300058: sprites_29
+    21300060: sprites_30
+    21300062: sprites_31
+    21300064: player_ship_3_b_2
+    21300066: sprites_33
+    21300068: sprites_34
+    21300070: sprites_35
+    21300072: enemy_5
+    21300074: enemy_6
+    21300076: enemy_7
+    21300078: enemy_8
+    21300080: player_ship_3_b_1
+    21300082: sprites_41
+    21300084: sprites_42
+    21300086: sprites_43
+    21300088: sprites_44
+    21300090: sprites_45
+    21300092: sprites_46
+    21300094: sprites_47
+    21300096: enemy_bullet_3
+    21300098: sprites_49
+    21300100: sprites_50
+    21300102: enemy_bullet_2
+    21300104: explos_11
+    21300106: explos_12
+    21300108: sprites_54
+    21300110: sprites_55
+    21300112: sprites_56
+    21300114: explos_14
+    21300116: explos_15
+    21300118: explos_16
+    21300120: player_ship_3_b_4
+    21300122: sprites_61
+    21300124: player_ship_3_b_3
+    21300126: sprites_63
+    21300128: sprites_64
+    21300130: sprites_65
+    21300132: sprites_66
+    21300134: enemy_9
+    21300136: sprites_68
+    21300138: sprites_69
+    21300140: enemy_bullet_1
+    21300142: enemy_10
+    21300144: enemy_11
+    21300146: enemy_bullet_0
+    21300148: sprites_74
+    21300150: sprites_75
+    21300152: sprites_76
+    21300154: sprites_77
+    21300156: sprites_78
+    21300158: explos_17
+    21300160: explos_18
+    21300162: sprites_81
+    21300164: explos_19
+    21300166: sprites_83
+    21300168: explos_20
+    21300170: explos_21
+    21300172: explos_22
+    21300174: sprites_87
+    21300176: enemy_explos_1
+    21300178: enemy_explos_2
+    21300180: enemy_explos_3
+    21300182: enemy_explos_4
+    21300184: enemy_explos_5
+    21300186: enemy_explos_6
+    21300188: asteroid_0
+    21300190: asteroid_3
+    21300192: med_asteroid_0
+    21300194: med_asteroid_1
+    21300196: med_asteroid_2
+    21300198: sprites_99
+    21300200: enemy_explos_7
+    21300202: enemy_explos_8
+    21300204: enemy_explos_9
+    21300206: enemy_explos_10
+    21300208: enemy_explos_11
+    21300210: enemy_explos_12
+    21300212: asteroid_1
+    21300214: asteroid_4
+    21300216: small_asteroid_0
+    21300218: med_asteroid_3
+    21300220: small_asteroid_3
+    21300222: med_asteroid_6
+    21300224: small_asteroid_4
+    21300226: small_asteroid_1
+    21300228: med_asteroid_4
+    21300230: med_asteroid_7
+    21300232: small_asteroid_2
+    21300234: small_asteroid_5
+    21300236: med_asteroid_5
+    21300238: med_asteroid_8
+    21300240: sprites_120
+    21300242: enemy_explos_13
+    21300244: enemy_explos_14
+    21300246: enemy_explos_15
+    21300248: enemy_explos_16
+    21300250: enemy_explos_17
+    21300252: enemy_explos_18
+    21300254: asteroid_2
+    21300256: asteroid_5
+    21300258: asteroid_6
+    21300260: enemy_explos_19
+    21300262: enemy_explos_20
+    21300264: enemy_explos_21
+    21300266: enemy_explos_22
+    21300268: enemy_explos_23
+    21300270: enemy_explos_24
+    21300272: boss_0
+    21300274: sprites_137
+    21300276: sprites_138
+    21300278: sprites_139
+    21300280: sprites_140
+    21300282: sprites_141
+    21300284: sprites_142
+    21300286: boss_1
+    21300288: player_ship_0
+    21300290: player_ship_1
+    21300292: player_ship_2_0
+    21300294: player_ship_3_0
+    21300296: player_ship_4_0
+    21300298: sprites_149
+    21300300: sprites_150
+    21300302: sprites_151
+    21300304: sprites_152
+    21300306: player_ship_2_1
+    21300308: player_ship_3_1
+    21300310: player_ship_4_1
+    21300312: sprites_156
+    21300314: sprites_157
+    21300316: sprites_158
+    21300318: sprites_159
+    21300320: sprites_160
+    21300322: sprites_161
+    21300324: sprites_162
+    21300326: sprites_163
+    21300328: sprites_164
+    21300330: sprites_165
+    21300332: player_ship_4_2
+    21300334: sprites_167
+    21300336: sprites_168
+    21300338: sprites_169
+    21300340: sprites_170
+    21300342: sprites_171
+    21300344: sprites_172
+    21300346: sprites_173
+    21300348: player_ship_2_b_0
+    21300350: sprites_175
+    21300352: player_ship_4_3
+    21300354: boss_0_laser
+    21300356: boss_0_bullet
+    21300358: boss_1_laser
+    21300360: boss_1_bullet
+    21300362: sprites_181
+    21300364: sprites_182
+    21300366: sprites_183
+    21300368: player_ship_0_b_0
+    21300370: player_ship_2_b_1
+    21300372: sprites_186
+    21300374: sprites_187
+    21300376: player_ship_2_b_2
+    21300378: sprites_189
+    21300380: sprites_190
+    21300382: sprites_191
+    21300384: player_ship_4_4
+    21300386: boss_3
+    21300388: player_ship_2_b_3
+    21300390: sprites_195
+    21300392: sprites_196
+    21300394: player_ship_4_b_0
+    21300396: sprites_198
+    21300398: sprites_199
+    21300400: player_ship_3_b_0
+    21300402: sprites_201
+    21300404: player_ship_2_b_4
+    21300406: player_ship_4_b_1
+    21300408: sprites_204
+    21300410: sprites_205
+    21300412: player_ship_4_b_2
+    21300414: player_ship_4_b_3
+    21300416: sprites_208
+    21300418: sprites_209
+    21300420: boss_3_laser
+    21300422: boss_3_bullet
+    21300424: player_ship_0_b_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2038
+        width: 67
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2032
+        width: 67
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2036
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_3
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2017
+        width: 62
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_4
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2009
+        width: 152
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explos_0
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 2123
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explos_1
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 2113
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explos_2
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 2101
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explos_3
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 2088
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explos_4
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 2086
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explos_5
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1958
+        width: 91
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explos_6
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1957
+        width: 99
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explos_8
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1959
+        width: 101
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explos_9
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1950
+        width: 120
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explos_10
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1950
+        width: 113
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1851
+        width: 65
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1885
+        width: 97
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_7
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1881
+        width: 41
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_8
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1875
+        width: 65
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_3
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1913
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_2
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1877
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explos_11
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1830
+        width: 106
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explos_12
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1830
+        width: 115
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explos_14
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1834
+        width: 96
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explos_15
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1846
+        width: 86
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explos_16
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1845
+        width: 86
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_9
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1696
+        width: 56
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1843
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1739
+        width: 65
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_11
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1744
+        width: 45
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_0
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1812
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explos_17
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1717
+        width: 87
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explos_18
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1717
+        width: 87
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explos_19
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1717
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explos_20
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1717
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explos_21
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1716
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explos_22
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1717
+        width: 87
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_explos_1
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1514
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_explos_2
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1515
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_explos_3
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1518
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_explos_4
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1517
+        width: 102
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_explos_5
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1516
+        width: 107
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_explos_6
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 1515
+        width: 110
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1426
+        width: 108
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1426
+        width: 108
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: med_asteroid_0
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1479
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: med_asteroid_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1479
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: med_asteroid_2
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1479
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_explos_7
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1379
+        width: 113
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_explos_8
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1378
+        width: 116
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_explos_9
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1376
+        width: 118
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_explos_10
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1374
+        width: 122
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_explos_11
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1374
+        width: 123
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_explos_12
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1372
+        width: 125
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1291
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1291
+        width: 106
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_asteroid_0
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1323
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: med_asteroid_3
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1419
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_asteroid_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1289
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: med_asteroid_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1359
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_asteroid_4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1289
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_asteroid_1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1323
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: med_asteroid_4
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1418
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: med_asteroid_7
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1359
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_asteroid_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1323
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_asteroid_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1289
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: med_asteroid_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1419
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: med_asteroid_8
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1359
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_explos_13
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1238
+        width: 127
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_explos_14
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1237
+        width: 129
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_explos_15
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1236
+        width: 130
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_explos_16
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1236
+        width: 130
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_explos_17
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 1236
+        width: 131
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_explos_18
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 1236
+        width: 132
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1160
+        width: 98
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1159
+        width: 98
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1160
+        width: 100
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_explos_19
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1102
+        width: 130
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_explos_20
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1103
+        width: 130
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_explos_21
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1103
+        width: 130
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_explos_22
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1103
+        width: 131
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_explos_23
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1102
+        width: 130
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_explos_24
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1104
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 732
+        width: 324
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss_1
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 724
+        width: 318
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_0
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 977
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_1
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 960
+        width: 103
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_2_0
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 959
+        width: 107
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_3_0
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 961
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_4_0
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 963
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_2_1
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 789
+        width: 106
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_3_1
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 788
+        width: 108
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_4_1
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 870
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_4_2
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 772
+        width: 103
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_2_b_0
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 697
+        width: 11
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_4_3
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 678
+        width: 103
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss_0_laser
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 638
+        width: 25
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss_0_bullet
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 676
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss_1_laser
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 639
+        width: 25
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss_1_bullet
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 677
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_0_b_0
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 647
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_2_b_1
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 635
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_2_b_2
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 571
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_4_4
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 576
+        width: 106
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 210
+        width: 343
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_2_b_3
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 503
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_4_b_0
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 485
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_3_b_0
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 488
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_2_b_4
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 433
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_4_b_1
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 401
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_4_b_2
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 319
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_4_b_3
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 247
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss_3_laser
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 120
+        width: 25
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: boss_3_bullet
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 157
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_0_b_2
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 754
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_0_b_3
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 841
+        width: 73
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_0_b_4
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 885
+        width: 75
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_1_b_3
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 872
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_1_b_2
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 827
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_1_b_1
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 782
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_1_b_0
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 736
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_3_b_2
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 597
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_3_b_1
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 542
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_3_b_4
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 707
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_3_b_3
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 661
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explos_7
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1960
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: explos_13
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1830
+        width: 102
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_ship_0_b_1
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 701
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

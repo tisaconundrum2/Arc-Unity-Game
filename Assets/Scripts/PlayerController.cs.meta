@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7fb9254c1026c2747afcea783b1aa726
+timeCreated: 1480920740
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerBullet: {fileID: 1000012291168036, guid: 7ce39aae842506f44b523ef774583aa1,
+      type: 2}
+  - PlayerBulletPos: {instanceID: 0}
+  - Explosion: {fileID: 1000010301425656, guid: fd6053a6a1da2aa4a83c6c5575e612cc,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
