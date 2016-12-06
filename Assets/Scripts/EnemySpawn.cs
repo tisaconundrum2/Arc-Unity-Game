@@ -30,7 +30,7 @@ public class EnemySpawn : MonoBehaviour {
     }
 
     void ScheduleNextEnemySpawn(){
-        if (maxSpawnRateInSeconds > 0.2f)                                                           // as long as the maxSpawnRate is above 0.1f
+        if (maxSpawnRateInSeconds > 0.2f)                                                            // as long as the maxSpawnRate is above 0.1f
             maxSpawnRateInSeconds = maxSpawnRateInSeconds - 0.01f;                                   // decrease the spawnRate Timeout
         Invoke("SpawnEnemy", maxSpawnRateInSeconds);                                                 // invoke the next spawning.
     }
