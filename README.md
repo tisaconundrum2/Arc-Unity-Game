@@ -15,6 +15,8 @@ Difficulty increases over time.
 ## References
 
  
+               Sprites and resources
+
 
 https://www.pinterest.com/pin/299067231480532951/
 
@@ -25,7 +27,7 @@ https://www.google.com/search?q=galaxy+backgrounds
 https://www.google.com/search?q=explosion+sprite
 
 http://www.zimnox.com/resources/textures/asteroids_demo.png
+              
+              Unity Tutorial: Infinitely Scrolling Background [Starfield for Space Games]
 
 https://www.youtube.com/watch?v=nGw_UBJQPDY 
-
-              Unity Tutorial: Infinitely Scrolling Background [Starfield for Space Games]
